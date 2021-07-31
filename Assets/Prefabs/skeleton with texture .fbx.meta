@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 8f407d16ea8c21446b02f33114242fd1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ARMS_LEFT
+    100002: ARMS_RIGHT
+    100004: FINGERS_LEFT
+    100006: FINGERS_RIGHT
+    100008: FORE_ARMS__RIGHT
+    100010: FORE_ARMS_LEFT
+    100012: left
+    100014: LEFT_HAND
+    100016: LEFT_LEG_BONE1
+    100018: LEFT_LEG_BONE_LEFT_LEG_BONE
+    100020: LEFT_SHOULDER
+    100022: LEFT_SHOULDER1
+    100024: LEFT_THING
+    100026: LEFT_THING 1
+    100028: LEFT_TOE
+    100030: LEFT_TOE 1
+    100032: PELVIC_BONE
+    100034: PELVIC_BONE 1
+    100036: RIB_CAGE
+    100038: RIB_CAGE 1
+    100040: RIGHT_HAND
+    100042: RIGHT_LEG_BONE1
+    100044: RIGHT_LEG_BONE2
+    100046: RIGHT_SHOULDER
+    100048: RIGHT_SHOULDER 1
+    100050: RIGHT_THING
+    100052: RIGHT_THING 1
+    100054: RIGHT_TOE
+    100056: RIGHT_TOE 1
+    100058: //RootNode
+    100060: SKULL
+    100062: SKULL 1
+    100064: SPINE
+    100066: SPINE 1
+    100068: TAIL_BONE
+    100070: TAIL_BONE 1
+    100072: TEETH
+    100074: TEETH 1
+    400000: ARMS_LEFT
+    400002: ARMS_RIGHT
+    400004: FINGERS_LEFT
+    400006: FINGERS_RIGHT
+    400008: FORE_ARMS__RIGHT
+    400010: FORE_ARMS_LEFT
+    400012: left
+    400014: LEFT_HAND
+    400016: LEFT_LEG_BONE1
+    400018: LEFT_LEG_BONE_LEFT_LEG_BONE
+    400020: LEFT_SHOULDER
+    400022: LEFT_SHOULDER1
+    400024: LEFT_THING
+    400026: LEFT_THING 1
+    400028: LEFT_TOE
+    400030: LEFT_TOE 1
+    400032: PELVIC_BONE
+    400034: PELVIC_BONE 1
+    400036: RIB_CAGE
+    400038: RIB_CAGE 1
+    400040: RIGHT_HAND
+    400042: RIGHT_LEG_BONE1
+    400044: RIGHT_LEG_BONE2
+    400046: RIGHT_SHOULDER
+    400048: RIGHT_SHOULDER 1
+    400050: RIGHT_THING
+    400052: RIGHT_THING 1
+    400054: RIGHT_TOE
+    400056: RIGHT_TOE 1
+    400058: //RootNode
+    400060: SKULL
+    400062: SKULL 1
+    400064: SPINE
+    400066: SPINE 1
+    400068: TAIL_BONE
+    400070: TAIL_BONE 1
+    400072: TEETH
+    400074: TEETH 1
+    2000000: left
+    2100000: lambert3
+    2100002: lambert4
+    2300000: ARMS_LEFT
+    2300002: ARMS_RIGHT
+    2300004: FINGERS_LEFT
+    2300006: FINGERS_RIGHT
+    2300008: FORE_ARMS__RIGHT
+    2300010: FORE_ARMS_LEFT
+    2300012: LEFT_LEG_BONE_LEFT_LEG_BONE
+    2300014: LEFT_SHOULDER
+    2300016: LEFT_THING 1
+    2300018: LEFT_TOE 1
+    2300020: PELVIC_BONE 1
+    2300022: RIB_CAGE 1
+    2300024: RIGHT_LEG_BONE1
+    2300026: RIGHT_SHOULDER 1
+    2300028: RIGHT_THING 1
+    2300030: RIGHT_TOE 1
+    2300032: SKULL 1
+    2300034: SPINE 1
+    2300036: TAIL_BONE 1
+    2300038: TEETH 1
+    3300000: ARMS_LEFT
+    3300002: ARMS_RIGHT
+    3300004: FINGERS_LEFT
+    3300006: FINGERS_RIGHT
+    3300008: FORE_ARMS__RIGHT
+    3300010: FORE_ARMS_LEFT
+    3300012: LEFT_LEG_BONE_LEFT_LEG_BONE
+    3300014: LEFT_SHOULDER
+    3300016: LEFT_THING 1
+    3300018: LEFT_TOE 1
+    3300020: PELVIC_BONE 1
+    3300022: RIB_CAGE 1
+    3300024: RIGHT_LEG_BONE1
+    3300026: RIGHT_SHOULDER 1
+    3300028: RIGHT_THING 1
+    3300030: RIGHT_TOE 1
+    3300032: SKULL 1
+    3300034: SPINE 1
+    3300036: TAIL_BONE 1
+    3300038: TEETH 1
+    4300000: SPINE
+    4300002: TAIL_BONE
+    4300004: PELVIC_BONE
+    4300006: RIGHT_THING
+    4300008: LEFT_THING
+    4300010: FINGERS_RIGHT
+    4300012: FORE_ARMS__RIGHT
+    4300014: ARMS_RIGHT
+    4300016: ARMS_LEFT
+    4300018: FORE_ARMS_LEFT
+    4300020: FINGERS_LEFT
+    4300022: RIB_CAGE
+    4300024: RIGHT_SHOULDER
+    4300026: LEFT_SHOULDER
+    4300028: LEFT_TOE
+    4300030: RIGHT_TOE
+    4300032: RIGHT_LEG_BONE1
+    4300034: LEFT_LEG_BONE_LEFT_LEG_BONE
+    4300036: SKULL
+    4300038: TEETH
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: f7c195e7659862743bf33f4f2842d5b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 46be953fd0f773f4dbfe690761f03d98, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: skeleton_lambert3_AlbedoTransparency
+    second: {fileID: 2800000, guid: c0071a07762a51447b012b2d192ad511, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: skeleton_lambert4_AlbedoTransparency
+    second: {fileID: 2800000, guid: e9189a550135f0a41a32d445607c8943, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
